@@ -3,7 +3,7 @@
 $servername = "127.0.0.1";
 $username = "root"; // Utilisez 'root' si c'est votre utilisateur MySQL
 $password = ""; // Utilisez le mot de passe correct
-$database = "stage_blogphp_2025";
+$database = "exercice_blog";
 
 try {
     // Établir la connexion à la base de données
